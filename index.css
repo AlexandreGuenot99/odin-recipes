@@ -1,0 +1,17 @@
+*{
+    font-family: 'Trebuchet MS', sans-serif;
+}
+body{
+  max-width: 600px;
+  margin: 20px auto;
+}
+.main-Content{
+  border: 1px solid;
+  text-align: center;
+}
+a{
+  display: block;
+  margin-bottom: 8px;
+  text-decoration: none;
+  color: black;
+}
